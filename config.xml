@@ -1,0 +1,16 @@
+<widget id="AidaTest" version="0.0.1">
+        <name>AidaTest</name>
+        <description>
+            Sales and Recruiting Software for the Mobile Professional
+        </description>
+        <author email="alex.armstrong@aidacreative.com" href="http://aidacreative.com">
+            Aida Creative Group
+        </author>
+        <preventFromSleep>false</preventFromSleep>
+        <content src="http://dev.exartu.com" />
+        <icon src="icon.png" />
+        <feature name="http://api.phonegap.com/1.0/network" />
+        <access origin="*" />
+        <preference name="Fullscreen" value="true" />
+        <preference name="WebViewBounce" value="true" />
+    </widget>
