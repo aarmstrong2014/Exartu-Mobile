@@ -9,6 +9,7 @@
         <preventFromSleep>false</preventFromSleep>
         <content src="http://dev.exartu.com" />
         <icon src="icon.png" />
+        <splashscreen src="splashscreen.png">
         <feature name="http://api.phonegap.com/1.0/network" />
         <access origin="*" />
         <preference name="Fullscreen" value="true" />
