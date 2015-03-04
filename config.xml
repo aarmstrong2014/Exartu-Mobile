@@ -1,4 +1,6 @@
-<widget id="Aida" version="0.0.1">
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget id="Aida" xmlns:gap="http://phonegap.com/ns/1.0" version="0.0.1">
         <name>Aida</name>
         <description>
             Sales and Recruiting Software for the Mobile Professional
@@ -9,7 +11,7 @@
         <preventFromSleep>false</preventFromSleep>
         <content src="http://dev.exartu.com" />
         <icon src="icon.png" />
-        <splash src="splashscreen.png" />
+        <gap:splash src="splashscreen.png" />
         <feature name="http://api.phonegap.com/1.0/network" />
         <access origin="*" />
         <preference name="Fullscreen" value="true" />
