@@ -9,7 +9,7 @@
             Aida Creative Group
         </author>
         <preventFromSleep>false</preventFromSleep>
-        <content src="http://dev.exartu.com" />
+        <content src="http://crm.exartu.com" />
         <icon src="icon.png" />
         <gap:splash src="splashscreen.png" />
         <feature name="http://api.phonegap.com/1.0/network" />
