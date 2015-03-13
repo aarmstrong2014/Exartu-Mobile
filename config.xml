@@ -11,7 +11,7 @@
         <preventFromSleep>false</preventFromSleep>
         <content src="http://crm.exartu.com" />
         <icon src="icon.png" />
-        <gap:splash src="splashscreen.png" />
+        <gap:splash src="splashscreen.9.png" />
         <feature name="http://api.phonegap.com/1.0/network" />
         <access origin="*" />
         <preference name="Fullscreen" value="true" />
